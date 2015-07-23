@@ -1,9 +1,10 @@
-##These are Comments, so whatever is here is not Code
+'''
+DATE: JULY 22, 2015
+AUTHOR: CAMERON
+DESCRIPTION: This is a coding exercise.
+'''
 
-
-##VARIABLES
-aBox = "words";
-
+var = "words"
 
 #PRINTING
-print aBox;
+print var
