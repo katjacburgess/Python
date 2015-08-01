@@ -1,0 +1,21 @@
+#DATE: JULY 31, 2015
+#AUTHOR: KATHLEEN
+#DESRIPTION: Pick your favorite character from friends and see a quote of what they said on the show
+
+question = raw_input("who is your favorite character on friends?: ")
+
+if question == "Rachel":
+	print "quote: I mean isnt that just kick-you-in-the-crotch, spit on your-neck-fantastic (case insensitive)"
+
+if question == "Ross":
+	print "quote: We Were On A BREAK!!!"
+
+if question == "Monica":
+	print "quote: Ive got this uncontrollable need to please people"
+
+if question == "Phoebe":
+	print "quote: See? Hes your lobster!"
+
+if question == "Joey":
+	print "quote: JOEY DOESNT SHARE FOOD"
+
