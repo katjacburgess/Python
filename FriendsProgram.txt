@@ -18,4 +18,3 @@ if question == "Phoebe":
 
 if question == "Joey":
 	print "quote: JOEY DOESNT SHARE FOOD"
-
