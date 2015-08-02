@@ -5,8 +5,13 @@ https://wiki.python.org/moin/ForLoop
 http://www.tutorialspoint.com/python/python_functions.htm
 https://wiki.python.org/moin/WhileLoop
 http://learnpythonthehardway.org/book/ex33.html
+
+
 http://learnpythonthehardway.org/book/
+
+
 http://learnpythonthehardway.org/book/ex48.html
+
 http://learnpythonthehardway.org/book/ex29.html
 http://learnpythonthehardway.org/book/ex30.html
 http://adespresso.com/tour/

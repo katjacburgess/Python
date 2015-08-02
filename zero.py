@@ -15,7 +15,7 @@ if (var1 + var2) == 0:
 else: 
 	result = int(var1) + int(var2)
 	# (var1 + var2) = result
-	print "( " + str(var1) + " + " + str(var2) + " ) = " + str(result)
+	print "( (" + str(var1) + ") + (" + str(var2) + ") ) = " + str(result)
 	print "the sum of these numbers do not equal zero"
 	
 	
