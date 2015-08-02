@@ -4,7 +4,7 @@
 
 question = raw_input("Who is your favorite character on friends?: ")
 question = question.lower(); #makes the case, no matter what it is, lowercase
-print question; #shows what ross is, you can comment this line out ;)
+#print question; #shows what ross is, you can comment this line out ;)
 
 if question == "rachel": #changed all the if statements to lowercase versions
 	print "quote: I mean isnt that just kick-you-in-the-crotch, spit on your-neck-fantastic (case insensitive)"
