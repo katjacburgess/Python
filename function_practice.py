@@ -21,3 +21,8 @@ def nameOw(name):
 nameOw("Joe")
 nameOw("Xander")
 nameOw("Lili")
+
+
+#Call a function & Pass a variable differently
+myName = "Superman";
+nameOw(myName) #as long as the variable is in the same place, the function will treat it the same way
