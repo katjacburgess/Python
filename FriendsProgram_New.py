@@ -1,5 +1,5 @@
 #DATE: JULY 31, 2015
-#AUTHOR: KATHLEENR
+#AUTHOR: KATHLEEN
 #DESRIPTION: Pick your favorite character from friends and see a quote of what they said on the show
 
 question = raw_input("Who is your favorite character on friends?: ")
@@ -20,4 +20,3 @@ if question == "phoebe":
 
 if question == "joey":
 	print "quote: JOEY DOESNT SHARE FOOD"
-
