@@ -50,4 +50,4 @@ if userInput == "single axel":
 
 print "Total Score = ", pointTalley 
 
-#string operator, seprator by commas, split qith commas phython 
+#string operator, seprator by commas, split with commas phython 
