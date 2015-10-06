@@ -24,10 +24,10 @@ if question == "capricorn":
 	print "what your sign says about you: Your kindness is beautiful"
 	
 if question == "leo":
-	print "what your sign says about you: You are strong in ore than one way"
+	print "what your sign says about you: You are strong in more than one way"
 	
 if question == "gemini":
-	print "what your sign says about you: You can do anything"
+	print "what your sign says about you: You can do anything if you believe in yourself"
 	
 if question == "libra":
 	print "what your sign says about you: Your laugh is like music to everyone's ears"
@@ -36,9 +36,10 @@ if question == "sagittarius":
 	print "what your sign says about you: You lift people's spirit"
 	
 if question == "pisces":
-	print "what your sign says about you: You are important"
+	print "what your sign says about you: You never give up"
 	
 if question == "aquarius":
 	print "what your sign says about you: You are stronger than you think"
+
 
 
