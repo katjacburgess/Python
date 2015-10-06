@@ -1,7 +1,7 @@
 #DATE: OCT 6TH, 2015
 #AUTHOR: KATHLEEN
 #Grade 10, Assignment 3, question 1
-#DESRIPTION:
+#DESRIPTION: this program takes the two numbers entrered and by using if statements, it prints which number is bigger
 Num1 = int(raw_input("Please enter a number "))
 Num2 = int(raw_input("Please enter a second number "))
 
