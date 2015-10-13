@@ -12,4 +12,5 @@ elif Num1 < Num2:
 	print "The first number is smallar than the second number entered."
 	
 #do you need a loop?
-#No you do not need a loop for this code because
+#No you do not need a loop for this code because it only has two numbers.
+
