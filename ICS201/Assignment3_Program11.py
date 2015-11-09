@@ -2,7 +2,7 @@
 #AUTHOR: KATHLEEN BURGESS
 #ASSIGNMENT: 3, problem 10, Group 14
 #DESRIPTION:
-	
+#fix this code, correct one on G drive
 additionalRoom = 0
 while additionalRoom != "no":
 	#ask for demensions of room
